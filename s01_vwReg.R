@@ -1,8 +1,7 @@
 
 ########################################################
-# Copyright 2012 Felix Sch??nbrodt
+# Copyright 2014 B.Tang (bnh.tang@gmail.com)
 # All rights reserved. FreeBSD License
-# 
 # Redistribution and use in source and binary forms, with or without
 # modification, are permitted provided that the following conditions are met:
 # 
@@ -29,14 +28,6 @@
 # are those of the authors and should not be interpreted as representing
 # official policies, either expressed or implied, of the copyright
 # holder.
-
-# Version history:
-# 0.1: original code
-# 0.1.1: changed license to FreeBSD; re-established compability to ggplot2 (new version 0.9.2)
-
-## Visually weighted regression / Watercolor plots
-## Idea: Solomon Hsiang, with additional ideas from many blog commenters
-
 
 # B = number bootstrapped smoothers
 # shade: plot the shaded confidence region?
