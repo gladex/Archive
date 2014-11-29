@@ -1,6 +1,7 @@
 README
 =======
-This package contains the archived scripts for further development.
+This package contains the archived scripts for further development, listed as below,
+s01_vwReg: Weighted Regression
 
 
 
